@@ -1,6 +1,8 @@
 /**
   https://picsum.photos/
  */
+
+
 function displayPicture(data) {
   const containerEl = document.querySelector("#picture");
 
